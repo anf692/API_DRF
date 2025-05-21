@@ -40,7 +40,7 @@ INSTALLED_APPS = [
 
     'activité',
     'rest_framework',
-    'rest_framework.authtoken',
+    'rest_framework.authtoken', 
 ]
 
 REST_FRAMEWORK = {
